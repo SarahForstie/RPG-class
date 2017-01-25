@@ -1,0 +1,1 @@
+characterBank = ["ch", "ck", "ff", "gh", "gn", "kn", "ll", "mb", "ng", "nk", "ph", "qu", "sh", "ss", "th", "wh", "wr", "zz", "bl", "br", "cl", "cr", "dr", "fl", "fr", "gl", "gr", "nd", "pl", "pr", "sl", "sm", "sn", "sp", "st", "shr", "spl", "spr", "squ", "str", "thr"]
